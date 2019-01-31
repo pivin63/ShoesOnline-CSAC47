@@ -1,2 +1,2 @@
 # ShoesOnline-CSAC47
-Project for applied term
+Project for applied project term
